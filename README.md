@@ -1,2 +1,4 @@
 # IOCP demo
-WindowsÍê³É¶Ë¿ÚµÄdemo¡£´óÖÂ¿ò¼Ü¶¼ÓĞÁË£¬¾ÍÊÇ¸Ğ¾õÀàµÄÉè¼ÆÓĞµãÎÊÌâ£¬»¹ÓĞ¹¤×÷Ïß³ÌµÄÍË³öÃ»ÓĞ½â¾ö¡£
+Windowså®Œæˆç«¯å£çš„demoã€‚å¤§è‡´æ¡†æ¶éƒ½æœ‰äº†ï¼Œå°±æ˜¯æ„Ÿè§‰ç±»çš„è®¾è®¡æœ‰ç‚¹é—®é¢˜ï¼Œè¿˜æœ‰å·¥ä½œçº¿ç¨‹çš„é€€å‡ºæ²¡æœ‰è§£å†³ã€‚
+
+a iocp server demo with some defects due to the fact that this program doesn't handle the exit of the working thread,and the interface design of the iocp class isn't great
